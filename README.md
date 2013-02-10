@@ -19,6 +19,8 @@ I decided that it made sense to start a Github repository for this, since it mig
 
 I am going to use Jolin's version as the primary, since it is the most current, but I wanted to include the others as reference, as in appreciation for the help that others offered.
 
+For those who might want to see the 3 previous versions, I have included them as well, but any future changes will all be to the primary version <https://github.com/tjluoma/open-in-google-chrome/blob/master/Open%20In%20Google%20Chrome.scpt>.
+
 <!--
 		Reference Links
 -->
