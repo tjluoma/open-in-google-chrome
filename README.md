@@ -17,16 +17,20 @@ Most recently, [Jolin Warren] wrote to TUAW and offered yet another solution to 
 
 I decided that it made sense to start a Github repository for this, since it might need to be changed in the future.
 
+I am going to use Jolin's version as the primary, since it is the most current, but I wanted to include the others as reference, as in appreciation for the help that others offered.
 
-[Jolin Warren]: oakandapple.org
+<!--
+		Reference Links
+-->
+[Daring Fireball]: http://daringfireball.net/2010/11/flash_free_and_cheating_with_google_chrome
 
-[StackOverflow]: http://stackoverflow.com/questions/4915047/applescript-to-open-current-firefox-4-tab-in-google-chrome
-
+[TUAW]: http://www.tuaw.com/2011/03/14/use-applescript-to-open-current-safari-url-in-google-chrome/
 
 [John C. Welch]: http://www.bynkii.com/
 
 [@bynkii]: http://twitter.com/bynkii
 
-[Daring Fireball]: http://daringfireball.net/2010/11/flash_free_and_cheating_with_google_chrome
+[Jolin Warren]: oakandapple.org
 
-[TUAW]: http://www.tuaw.com/2011/03/14/use-applescript-to-open-current-safari-url-in-google-chrome/
+[StackOverflow]: http://stackoverflow.com/questions/4915047/applescript-to-open-current-firefox-4-tab-in-google-chrome
+
